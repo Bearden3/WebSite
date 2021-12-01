@@ -6,7 +6,7 @@ I am a senior student at the University of Tennessee of Martin. I am majoring in
 
 [Link](https://github.com/Bearden3/WebSite/blob/gh-pages/Resume/Bearden_Resume.pdf)
 
-![Image](src="https://github.com/Bearden3/WebSite/blob/main/Resume/Bearden_Resume.pdf")
+![Image](src="https://github.com/Bearden3/WebSite/blob/gh-pages/Resume/Bearden_Resume.pdf")
 
 [Bearden_Resume.pdf](https://github.com/Bearden3/WebSite/blob/gh-pages/Resume/Bearden_Resume.pdf)
 
