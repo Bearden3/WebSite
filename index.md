@@ -4,13 +4,13 @@ I am a senior student at the University of Tennessee of Martin. I am majoring in
 
 ### Resume
 
-https://Bearden.github.io/BeardenMason_Resume.pdf
+[Link](https://Bearden.github.io/BeardenMason_Resume.pdf)
 
 
 ### Projects
 Mark The Mighty: web game developed in Unity
 
-https://mark-the-mighty.web.app/
+[Link](https://mark-the-mighty.web.app/)
 
 
 ```markdown
