@@ -8,7 +8,7 @@ I am a senior student at the University of Tennessee of Martin. I am majoring in
 
 <embed src="https://github.com/Bearden3/WebSite/blob/main/Resume/Bearden_Resume.pdf" width="100%" height="850px" type="application/pdf" />
 
-[Bearden_Resume.pdf](http://Bearden3.github.io/main/Resume/Bearden_Mason.pdf)
+[Bearden_Resume.pdf](http://Bearden3.github.io/WebSite/Resume/Bearden_Mason.pdf)
 
 
 ### Projects
