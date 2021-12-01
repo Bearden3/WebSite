@@ -1,5 +1,7 @@
 ## Mason Bearden
 
+<img src="https://Bearden3.github.io/WebSite/Resume/Profile.jpg" width="200" height="200" >
+
 I am a senior student at the University of Tennessee of Martin. I am majoring in computer science.
 
 ### Resume
